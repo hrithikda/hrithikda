@@ -3,7 +3,7 @@
 Hi there, I'm Hrithik
 </h3>
 
-<h4>👩‍🎓 I'm a Student! </h4>
+<h4🤵 I'm a Student! </h4>
 
  <p> 🎓 I’m a B.Tech, Electronics & Communications Engineering student, <br/> interested Python, Machine Learning, Data Science. Willing to learn and explore new technologies and apply them in the various projects that could help to solve real life problems. </p>
 
