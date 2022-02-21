@@ -1,6 +1,6 @@
 <h3 align="left">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Hi there, I'm Hrithik D A
+Hi there, I'm Hrithik
 </h3>
 
 <h4>👩‍🎓 I'm a Student! </h4>
