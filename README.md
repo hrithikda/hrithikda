@@ -79,37 +79,6 @@ My goal is to become a **Quantitative Analyst**, leveraging my technical and ana
 
 ---
 
-### 🌟 Featured Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/hrithikda/stress-analysis-hrv">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrithikda&repo=stress-analysis-hrv&theme=radical" alt="Stress Analysis HRV">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hrithikda/geolocational-data-analysis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrithikda&repo=geolocational-data-analysis&theme=radical" alt="Geolocational Data Analysis">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/hrithikda/united-airlines-performance">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrithikda&repo=united-airlines-performance&theme=radical" alt="United Airlines Performance Analysis">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hrithikda/heart-rate-machine-learning">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hrithikda&repo=heart-rate-machine-learning&theme=radical" alt="Heart Rate ML Project">
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🏆 Achievements and Contributions
 - **IEEE Publication**: Heart Rate Variability and Machine Learning for Stress Analysis (Dec 2022)
 - Published insights that achieved **85% classification accuracy** for stress level detection.
@@ -127,4 +96,5 @@ Feel free to reach out for **collaboration** or **discussions** about projects, 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+
 
