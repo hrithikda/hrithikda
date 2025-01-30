@@ -58,8 +58,9 @@
 #### Data Tools and Platforms  
 🛠️ Tools I wield like Gandalf wields a staff:  
 - **Pandas, NumPy** – for science-y shenanigans 🧙‍♂️  
-- **Tableau, Spark, Hadoop** – my crystal balls for peeking into big data  
+- **Tableau, Power BI** – my crystal balls for peeking into big data  
 - **Azure, AWS, GCP** – where I cast my cloud-based spells ☁️🔮  
+- **TensorFlow, PyTorch** – for summoning machine learning models 🧠  
 
 ---
 
@@ -76,17 +77,18 @@
 
 ### 🏆 Achievements & Contributions  
 🏅 **IEEE Spellbook**: Published **"Heart Rate Variability and Machine Learning for Stress Analysis"** in December 2022.  
-🧙‍♂️ Achieved **85% prediction accuracy** – because no sorcerer likes a weak spellbook!
+🧙‍♂️ Achieved **85% prediction accuracy** – because no sorcerer likes a weak spellbook!  
+🌟 Contributed to **open-source projects** and actively participate in **hackathons** and **data science competitions**.  
 
 ---
 
 ### 🎥 Fun with Data  
-🔍 Want to see how I tinker with data, visualize wizard-level insights, and craft magic dashboards? My GitHub repos are the **Hogwarts library** you’ve been looking for!
+🔍 Want to see how I tinker with data, visualize wizard-level insights, and craft magic dashboards? My GitHub repos are the **Hogwarts library** you’ve been looking for!  
 
 ---
 
 ### 📫 Let's Join Forces!  
-🤝 Whether you’re planning an **analytics expedition** or just want to **nerd out over data science memes**, I’m game! Hit me up for collabs or discussions.
+🤝 Whether you’re planning an **analytics expedition** or just want to **nerd out over data science memes**, I’m game! Hit me up for collabs or discussions.  
 
 ---
 
