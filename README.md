@@ -67,7 +67,7 @@ Spent 2 years at a company where data actually mattered — benefits administrat
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>AI-Powered Document Intelligence Hub <em>(in progress)</em></h3>
+      <h3><a href="https://github.com/hrithikda/document-intelligence-hub">AI-Powered Document Intelligence Hub</a></h3>
       <p>RAG-based system for intelligent document search, summarization, and Q&A. Focused on chunking strategies, retrieval accuracy, and multi-format ingestion.</p>
       <p>
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
