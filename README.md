@@ -1,14 +1,20 @@
 <div align="center">
 
-<!-- Replace this with your chosen banner SVG once finalized -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=&fontSize=0" width="100%"/>
+<!-- Commit banner.svg to your profile repo root -->
+<img src="./banner.svg" width="100%" alt="Hrithik Dasharatha Angadi"/>
 
-# Hrithik Dasharatha Angadi
+<br>
 
-**Data Scientist · ML Engineer · Analytics Engineer**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Data+Scientist;ML+Engineer;Data+Engineer;Building+end-to-end+data+%26+AI+systems" alt="Typing SVG"/>
+</a>
 
-MS in Management Information Systems @ University of Illinois Chicago · May 2026
+<br><br>
 
+<a href="https://hrithikda.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=safari&logoColor=58a6ff" alt="Portfolio"/>
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/hrithikda/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -27,13 +33,21 @@ MS in Management Information Systems @ University of Illinois Chicago · May 202
 
 ## About
 
-I build end-to-end data and ML systems that connect models to real business decisions. My work spans predictive analytics, causal inference, NLP/LLM applications, and experimentation platforms.
+I'm a data engineer and ML practitioner who turns raw, messy data into reliable pipelines, intelligent models, and clear decisions. I specialize in building scalable data systems and applying machine learning where it actually matters. My work spans Python-based ETL pipelines, cloud infrastructure on AWS, and end-to-end ML deployments. I approach every project with an engineering mindset: clean architecture, reproducible results, and outcomes you can measure.
 
-I've worked as a **Data Analyst at PlanSource** in Bangalore, where I built reporting pipelines and dashboards that drove operational decisions. Currently at **UIC's Online Programs Team** as a Data Scientist/ML Engineer, and conducting independent research on **agentic AI systems** under Professor Selvaprabu Nadarajah.
+Currently pursuing my **MS in Management Information Systems at UIC**, conducting independent research on **agentic AI systems** under Professor Selvaprabu Nadarajah, and actively seeking full-time roles in **data engineering, data science, ML engineering, and AI**.
 
-My technical foundation covers everything from classical ML and statistical modeling to full-stack application development and GenAI/RAG architectures. I write production code, not just notebooks.
+<br>
 
-I'm actively looking for **Data Scientist, ML Engineer, Data Engineer, Analytics/Product Analyst, and AI Engineer** roles.
+## Experience
+
+**Data Analyst (Graduate Hourly)** · University of Illinois Chicago, Online Programs Team · *Aug 2024 – Present*
+
+Built and deployed ML models to understand enrollment patterns and retention risk, then stuck around to make sure they actually kept working. Set up monitoring frameworks so trends didn't sneak up on anyone, and got comfortable explaining what the numbers meant to people who cared about the outcome, not the model.
+
+**Associate Software Developer** · PlanSource (Benefits Administration Platform) · *Aug 2022 – Aug 2024*
+
+Spent 2 years at a company where data actually mattered — benefits administration means every number has a person behind it. Built pipelines that had to be reliable, translated messy real-world data into something systems could actually use, and worked closely with PMs and analysts to understand what the data needed to say. Left with a solid instinct for when data is trustworthy, when it isn't, and what to do about it.
 
 <br>
 
@@ -123,7 +137,7 @@ I'm actively looking for **Data Scientist, ML Engineer, Data Engineer, Analytics
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   &nbsp;&nbsp;
@@ -143,20 +157,28 @@ I'm actively looking for **Data Scientist, ML Engineer, Data Engineer, Analytics
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Spark" width="40" height="40"/>
 </p>
 
-**ML & Data Science:** scikit-learn · XGBoost · SHAP · statsmodels · Causal Inference · TensorFlow · PyTorch
+**Languages:** Python · SQL · R · JavaScript · C++
+
+**ML & Data Science:** scikit-learn · XGBoost · SHAP · TensorFlow · PyTorch · statsmodels · Causal Inference
 
 **GenAI & NLP:** LangChain · DSPy · ChromaDB · RAG Architectures · Prompt Engineering · n8n
 
 **Data Engineering:** PostgreSQL · MongoDB · Apache Spark · ETL Pipelines · Data Modeling
 
-**Visualization:** Tableau · Power BI · Plotly · Streamlit
+**Cloud & Infrastructure:** AWS (S3, EC2, Lambda, Glue, RDS) · Azure · GCP · Docker · CI/CD
 
-**Cloud & DevOps:** AWS · Azure · GCP · Docker · CI/CD
+**Visualization:** Tableau · Power BI · Plotly · Streamlit · Matplotlib
 
 </div>
+
+<br>
+
+## Certifications
+
+<img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Cloud Practitioner"/>
 
 <br>
 
@@ -170,11 +192,24 @@ I'm actively looking for **Data Scientist, ML Engineer, Data Engineer, Analytics
 
 <br>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hrithikda&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hrithikda/hrithikda/blob/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/hrithikda/hrithikda/blob/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://github.com/hrithikda/hrithikda/blob/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
 <!--
-CONTRIBUTION SNAKE ANIMATION
-To enable: set up a GitHub Action in your profile repo.
-1. Go to Actions tab > New Workflow > create .github/workflows/snake.yml
-2. Paste this workflow config:
+SNAKE SETUP:
+1. In your hrithikda/hrithikda repo, go to Actions > New Workflow > "set up a workflow yourself"
+2. Name it snake.yml and paste:
 
 name: Generate Snake
 on:
@@ -189,8 +224,8 @@ jobs:
         with:
           github_user_name: hrithikda
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
@@ -198,17 +233,16 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-3. Run the workflow manually once, then uncomment below:
-
-![Snake animation](https://github.com/hrithikda/hrithikda/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://github.com/hrithikda/hrithikda/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+3. Commit, then run the workflow manually from Actions tab.
 -->
+
+<br>
 
 ## Education
 
-**MS in Management Information Systems** · University of Illinois Chicago (Aug 2024 – May 2026)
+**MS in Management Information Systems** · University of Illinois Chicago (2024 – 2026)
 
-**B.Tech in Electronics and Communication Engineering** · KLE Technological University, India
+**BE in Electronics & Communication** · Dayananda Sagar University (2018 – 2022)
 
 <br>
 
