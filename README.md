@@ -1,95 +1,79 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header" width="100%">
 
-<div align="center">
-  <a href="https://github.com/hrithikda">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Hrithik%20Dasharatha%20Angadi&description=Passionate%20MIS%20Student%2C%20Skilled%20in%20Data%20Science,%20Analytics,%20and%20Machine%20Learning.%20On%20a%20quest%20to%20become%20a%20Quant%20Wizard!&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2Fhrithikda&backgroundColor=%23000&colorPattern=%23eaeaea&linkedin=hrithikda&github=hrithikda" alt="Hrithik Dasharatha Angadi's Card" />
-  </a>
-</div>
-
-<h1 align="center">Hello &nbsp;<img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48">, I'm Hrithik!</h1>
+<h1 align="center">Hrithik Dasharatha Angadi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Data+Sorcerer+in+Training;Quant+Wizard+in+Progress;Analytics+Mage;Coding+Alchemy!" alt="Typing SVG" />
+  <strong>Data Scientist · ML Engineer · Analytics Engineer</strong><br>
+  MS in Management Information Systems @ University of Illinois Chicago · May 2026<br>
+  Previously at PwC (Cyber Managed Services) and PlanSource
 </p>
 
 <p align="center">
-  Data Enthusiast | Code Conjurer | MIS Mage
+  <a href="https://www.linkedin.com/in/hrithikda/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:hrithikda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
+  <a href="https://github.com/hrithikda"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
----
+<br>
 
-### 🌐 Connect with Me
+## About
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/hrithikda/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hrithikda" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:hanga@uic.edu" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
+I build end-to-end data and ML systems that connect models to real business decisions. My work spans predictive analytics, causal inference, NLP/LLM applications, and experimentation platforms.
 
----
+Before grad school, I spent 2.5 years at **PwC** working in vulnerability management and identity access governance across enterprise clients, and worked as a **Data Analyst at PlanSource** in Bangalore. I bring a grounding in production environments, stakeholder communication, and security-sensitive data handling that most early-career data scientists don't have.
 
-### 🚀 About Me  
-👨‍💻 I'm not your average data wrangler – I’m a **data sorcerer in training**, brewing powerful insights from bits and bytes. Currently leveling up as an **MIS Mage** at **UIC**, where I fuse **machine learning spells** with **analytics incantations** to create **real-world magic**. Armed with a **B.Tech in Electronics and Communication Engineering**, I’m on a quest to become a **Quantitative Analyst** and conquer the **markets of data-driven chaos!**
+Currently at **UIC's Online Programs Team** as a Data Scientist/ML Engineer, and conducting independent research on **agentic AI systems** under Professor Selvaprabu Nadarajah.
 
----
+I'm actively looking for **Data Scientist, ML Engineer, Data Engineer, Analytics/Product Analyst, and AI Engineer** roles.
 
-### 🛠️ Tech Stack
+<br>
 
-#### Programming Languages  
-🧪 Languages I use to whisper to computers and bend them to my will:  
-**Python**, **JavaScript**, **SQL**, **R**, and **Java** (because why not have some backup magic?)  
+## Featured Projects
 
-#### Data Tools and Platforms  
-🛠️ Tools I wield like Gandalf wields a staff:  
-- **Pandas, NumPy** – for science-y shenanigans 🧙‍♂️  
-- **Tableau, Power BI** – my crystal balls for peeking into big data  
-- **Azure, AWS, GCP** – where I cast my cloud-based spells ☁️🔮  
-- **TensorFlow, PyTorch** – for summoning machine learning models 🧠  
+### [Customer Intelligence & Churn Analytics Platform](https://github.com/hrithikda/churn-analytics-platform)
+Full-stack ML application for predicting and analyzing customer churn. Built with **React, FastAPI, PostgreSQL, XGBoost, and SHAP**. Features interactive dashboards, real-time prediction serving, and model explainability visualizations. Designed to mirror how an analytics team at a SaaS company would actually operationalize churn modeling.
 
----
+### AI-Powered Document Intelligence Hub *(in progress)*
+RAG-based system for intelligent document search, summarization, and Q&A. Built with **ChromaDB, LangChain, and LLM orchestration**. Focused on chunking strategies, retrieval accuracy, and handling multi-format document ingestion at scale.
 
-### 📊 GitHub Stats  
-🎯 Every commit is a battle won, and every project is an adventure completed! Check out my quest log below:  
+### A/B Test & Experimentation Analysis Platform *(coming soon)*
+End-to-end experimentation framework covering test design, power analysis, statistical inference, and guardrail metrics. Aimed at the kind of experimentation workflow product and growth teams run in practice.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hrithikda&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hrithikda&show_icons=true&theme=radical" alt="Hrithik's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithikda&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-</div>
+### MIMIC-IV Sepsis Causal Inference Study
+Applied causal inference methods to the MIMIC-IV clinical database to analyze treatment effects on sepsis outcomes. Used **propensity score matching, inverse probability weighting, and doubly robust estimation** to isolate causal relationships in observational ICU data.
 
----
+### Agentic AI Research (IDS 596 Independent Study)
+Built prototypes exploring agentic AI capabilities under faculty supervision. Covered **DSPy pipelines, RAG systems with ChromaDB, web scraping agents, and n8n workflow automation**. Focused on evaluating how LLM agents perform structured reasoning and multi-step task execution.
 
-### 🏆 Achievements & Contributions  
-🏅 **IEEE Spellbook**: Published **"Heart Rate Variability and Machine Learning for Stress Analysis"** in December 2022.  
-🧙‍♂️ Achieved **85% prediction accuracy** – because no sorcerer likes a weak spellbook!  
-🌟 Contributed to **open-source projects** and actively participate in **hackathons** and **data science competitions**.  
+### IEEE Publication: Heart Rate Variability and ML for Stress Analysis
+Published peer-reviewed research applying machine learning models to physiological signal data for stress detection. Achieved **85% prediction accuracy** using HRV features. Published December 2022.
 
----
+<br>
 
-### 🎥 Fun with Data  
-🔍 Want to see how I tinker with data, visualize wizard-level insights, and craft magic dashboards? My GitHub repos are the **Hogwarts library** you’ve been looking for!  
+## Technical Skills
 
----
+**Languages:** Python, SQL, JavaScript, R, Java
 
-### 📫 Let's Join Forces!  
-🤝 Whether you’re planning an **analytics expedition** or just want to **nerd out over data science memes**, I’m game! Hit me up for collabs or discussions.  
+**ML & Data Science:** scikit-learn, XGBoost, TensorFlow, PyTorch, SHAP, statsmodels, causal inference methods
 
----
+**Data Engineering:** PostgreSQL, MongoDB, Apache Spark, ETL pipeline design, data modeling
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+**GenAI & NLP:** LangChain, DSPy, ChromaDB, RAG architectures, prompt engineering, n8n
+
+**Visualization & BI:** Tableau, Power BI, Plotly, Streamlit
+
+**Cloud & DevOps:** AWS, Azure, GCP, Docker, Git, CI/CD
+
+**Web & APIs:** React, FastAPI, REST API design
+
+<br>
+
+## Education
+
+**MS in Management Information Systems** — University of Illinois Chicago (Aug 2024 – May 2026)
+
+**B.Tech in Electronics and Communication Engineering** — KLE Technological University, India
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer" width="100%">
