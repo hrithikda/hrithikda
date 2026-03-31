@@ -1,13 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=&fontSize=0" width="100%"/>
-
 <div align="center">
+
+<!-- Replace this with your chosen banner SVG once finalized -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=&fontSize=0" width="100%"/>
 
 # Hrithik Dasharatha Angadi
 
 **Data Scientist · ML Engineer · Analytics Engineer**
 
-MS in Management Information Systems @ University of Illinois Chicago · May 2026  
-Previously at PwC (Cyber Managed Services) · PlanSource
+MS in Management Information Systems @ University of Illinois Chicago · May 2026
 
 <a href="https://www.linkedin.com/in/hrithikda/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -29,9 +29,9 @@ Previously at PwC (Cyber Managed Services) · PlanSource
 
 I build end-to-end data and ML systems that connect models to real business decisions. My work spans predictive analytics, causal inference, NLP/LLM applications, and experimentation platforms.
 
-Before grad school, I spent **2.5 years at PwC** working in vulnerability management and identity access governance across enterprise clients, and worked as a **Data Analyst at PlanSource** in Bangalore. I bring a grounding in production environments, stakeholder communication, and security-sensitive data handling that most early-career data scientists don't have.
+I've worked as a **Data Analyst at PlanSource** in Bangalore, where I built reporting pipelines and dashboards that drove operational decisions. Currently at **UIC's Online Programs Team** as a Data Scientist/ML Engineer, and conducting independent research on **agentic AI systems** under Professor Selvaprabu Nadarajah.
 
-Currently at **UIC's Online Programs Team** as a Data Scientist/ML Engineer, and conducting independent research on **agentic AI systems** under Professor Selvaprabu Nadarajah.
+My technical foundation covers everything from classical ML and statistical modeling to full-stack application development and GenAI/RAG architectures. I write production code, not just notebooks.
 
 I'm actively looking for **Data Scientist, ML Engineer, Data Engineer, Analytics/Product Analyst, and AI Engineer** roles.
 
@@ -172,13 +172,9 @@ I'm actively looking for **Data Scientist, ML Engineer, Data Engineer, Analytics
 
 <!--
 CONTRIBUTION SNAKE ANIMATION
-To enable this, set up a GitHub Action in your profile repo:
-1. Go to Actions tab > New Workflow > set up main.yml
-2. Paste the workflow config below
-3. Run the workflow manually once
-4. Uncomment the image tags below
-
-Workflow YAML for .github/workflows/snake.yml:
+To enable: set up a GitHub Action in your profile repo.
+1. Go to Actions tab > New Workflow > create .github/workflows/snake.yml
+2. Paste this workflow config:
 
 name: Generate Snake
 on:
@@ -202,7 +198,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-Then uncomment the lines below:
+3. Run the workflow manually once, then uncomment below:
 
 ![Snake animation](https://github.com/hrithikda/hrithikda/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![Snake animation](https://github.com/hrithikda/hrithikda/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
