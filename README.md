@@ -79,7 +79,7 @@ Spent 2 years at a company where data actually mattered — benefits administrat
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>A/B Test & Experimentation Platform <em>(coming soon)</em></h3>
+      <h3><a href="https://github.com/hrithikda/ab-test-platform">A/B Test & Experimentation Platform</a>a</h3>
       <p>End-to-end experimentation framework covering test design, power analysis, statistical inference, and guardrail metrics for product and growth teams.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
